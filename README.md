@@ -1,7 +1,7 @@
 # 虚拟摄像头 virtualcamera
 ## 感谢https://github.com/wangwei1237/CameraHook 提供的HOOK思路！！  
 
-## 具体的使用方法（现在全部在Camera1里了，Camera里找东西真麻烦）：  
+## 具体的使用方法：  
 1、安装模块，启用模块，LSPosed等包含定义域的框架需要选勾目标app，但无需选勾系统框架。  
 2、将需要替换的视频命名为virtual.mp4，放在/sdcard/DCIM/Camera1/目录下。（前置摄像头需要水平翻转后右旋90°保存，onPreviewFrame需要匹配分辨率）  
 3、若需要拦截拍照事件，请在/sdcard/DCIM/Camera1/目录下放置 1000.bmp 用于替换，（前置摄像头需要水平翻转后右旋90°保存，需要匹配分辨率）  
