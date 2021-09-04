@@ -32,7 +32,7 @@ open camera in target app, and you can find resolution in toast message.
 
 ### open source repo link : https://github.com/w2016561536/android_virtual_cam  
 
-有bug、疑问请直接在issue中提出(bug, question can be raised in issue)  
+### 有bug、疑问请直接在issue中提出(bug, question can be raised in issue)  
 
 # 请勿用于违法用途，后果自负！！！  
 # DO NOT USE FOR ANY ILLEAGLE INTENTION!!YOU NEED TO TAKE ALL RESPONSIBILITY AND CONSEQUENCE!!"  
