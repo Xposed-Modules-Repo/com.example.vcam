@@ -1,4 +1,4 @@
-# android_virtual_cam
+# 虚拟摄像头 virtualcamera
 xposed安卓虚拟摄像头  
 ## 感谢https://github.com/wangwei1237/CameraHook 提供的HOOK思路！！  
 
