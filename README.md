@@ -1,4 +1,4 @@
-# 虚拟摄像头 virtual camera  
+# 安卓虚拟摄像头 android virtual camera  
 
 ## 具体的使用方法(English version is below)：   
 1、安装xposed框架（传统xposed，edxp，lsposed等均可，不确定虚拟框架能否使用，已经确定VMOS可用，应用转生不可用）    
