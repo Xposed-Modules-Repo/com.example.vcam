@@ -31,7 +31,7 @@
 
 ## bugs with camera2 api, need to disable it?
 create `disable.jpg` under `/sdcard/DCIM/Camera1/` to disable this method hook.  
-## how to get resolution ??(only hook onPreviewFrame and image capture need it)?
+## how to get resolution ??(only needed if you see "宽：...高：...")?
 open camera in target app, and you can find resolution in toast message.  
 ## Needn't mute?
 Create `no-silent.jpg` under `/sdcard/DCIM/Camera1/`, and it will play sounds.  
