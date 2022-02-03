@@ -1,6 +1,6 @@
 # android_virtual_cam
 
-[简体中文](./README.md) | [繁體中文](./README_tc.md) | [English](./README_en.md)
+[简体中文](https://github.com/Xposed-Modules-Repo/com.example.vcam/blob/main/README.md) | [繁體中文](https://github.com/Xposed-Modules-Repo/com.example.vcam/blob/main/README_tc.md) | [English](https://github.com/Xposed-Modules-Repo/com.example.vcam/blob/main/README_en.md)
 
 基于Xposed的虚拟摄像头
 
@@ -42,7 +42,7 @@ A2. 目前有些应用并不能成功替换（特别是系统相机）。或者�
 Q3. 画面花屏？  
 A3. 视频分辨率不对。
 
-Q4. 画面扭曲，变形？
+Q4. 画面扭曲，变形？  
 A4. 请使用剪辑软件修改原视频来匹配屏幕。
 
 
